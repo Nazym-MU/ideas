@@ -56,6 +56,7 @@ if name == "main":
     queue.add_idea("read papers", "read machine learning, ai, physics papers, and write about them, bro you used to be good at that, let's get back to it")
     queue.add_idea("money", "start investing in sth, i know nothing about this, learn")
     queue.add_idea("write a book for children", "illustrations and explanations about quantum physics, physics, AI, machine learning, etc.")
+    queue.add_idea("leetcode coin collector", "yk the button that appears once in a while on the top left corner of the contest page in leetcode? i want to write a program that collects the coins whenever they appear there")
     
     
     print("Current ideas:")
